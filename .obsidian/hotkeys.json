@@ -1,1 +1,19 @@
-{}
+{
+  "ava:ava-rewrite-prompt": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "ava:ava-add-prompt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ]
+}

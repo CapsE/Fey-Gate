@@ -25,7 +25,7 @@ Your Defense Rating (DR) is a combination of your ability to dodge and avoid att
 ![[Armor]]
 
 ### Critical Hits
-When rolling a d20 the rolled number before adding any modifiers is considered the natural number. Rolling a 20 is a natural 20, a 1 is a natural 1 and so on.
-When rolling a d20 in combat rolling a natural 20 is considered a critical hit. Rolling a natural 1 is a guranteed failure on the other hand.  There are effects that increase your chance for a critical hit and certain spells and manuvers have a different chance of a critical hit. If you get a critical hit chance of +3 for example you'll land a critical hit on a natural 20 (like usual), 19, 18 and 17. Keep in mind that it's always the natural number before modifiers that counts.
 
-A critical hit always hits no matter the Defense Rating of the enemy. It also double the dice rolled when rolling for damage. If a target still has resolve you can decide to do normal damage to it's HP instead of doing double damage to it's resolve.
+When rolling a d20, the number rolled before adding any modifiers is considered the natural number. Rolling a 20 is a natural 20, a 1 is a natural 1, and so on. In combat, rolling a natural 20 is considered to be a critical hit. On the other hand, rolling a natural 1 is a guaranteed failure. There are effects that increase your chances of a critical hit and certain spells and maneuvers have a different chance of a critical hit. For example, if you get a critical hit chance of +3, you will land a critical hit on a natural 20 (as usual), 19, 18, and 17. Keep in mind that it is always the natural number before modifiers that counts.
+
+A critical hit always hits, regardless of the enemy's Defense Rating. It also doubles the dice rolled when rolling for damage. If a target still has resolve, you can opt to do normal damage to its HP instead of double damage to its resolve.
