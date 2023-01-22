@@ -1,0 +1,29 @@
+.internal-embed.markdown-embed.inline-embed.is-loaded {
+  border-left: 0;
+  padding-left: 0;
+}
+
+.workspace-leaf-content[data-mode="source"] .internal-embed.markdown-embed.inline-embed.is-loaded {
+  height: 24px;
+  background-color: purple;
+  padding: 2px 5px;
+}
+
+.workspace-leaf-content[data-mode="source"] .internal-embed.markdown-embed.inline-embed.is-loaded * {
+  display: none;
+}
+
+.workspace-leaf-content[data-mode="source"] .internal-embed.markdown-embed.inline-embed.is-loaded .embed-title.markdown-embed-title {
+  display: block;
+}
+
+@media print {
+  .internal-embed.markdown-embed.inline-embed.is-loaded {
+    height: auto;
+    background-color: inherit;
+  }
+  
+  .internal-embed.markdown-embed.inline-embed.is-loaded * {
+    display: block;
+  }
+}
