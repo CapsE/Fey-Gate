@@ -1,18 +1,7 @@
-* [[Fighter]]
-* [[Rouge]]
-* [[Mage]]
-
-* [[Captain]]
-* Paladin
-* Tinkerer
-* Spell-Sword
-* Priest
-* Wizard
-* Druid
-* Illusionist
-* Ranger
-* Silvertounge
-* Monk
-* Thief
-* Assasin
-* Monster-Hunter
+* [[_Battle Mage]]
+* [[_Fighter]]
+* [[_Mage]]
+* [[_Monk]]
+* [[_Priest]]
+* [[_Ranger]]
+* [[_Rouge]]

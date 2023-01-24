@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d5037dcd7d48dec",
+        "id": "3fd57bf238f5df86",
         "type": "tabs",
         "children": [
           {
-            "id": "332c741f7898ce66",
+            "id": "bd30c05e9890bed6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "7534658e2d922754",
+            "id": "996bf65ac0ca253c",
             "type": "leaf",
             "state": {
               "type": "ava.write.sidebar",
@@ -142,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,17 +148,17 @@
       "ava:Ava": false
     }
   },
-  "active": "7534658e2d922754",
+  "active": "bd30c05e9890bed6",
   "lastOpenFiles": [
-    "Combat Rules.md",
-    "Ava - Getting Started.md",
-    "README.md",
-    "Monsters/Dragon Boar.md",
-    "Resting.md",
-    "LICENSE.md",
     "Classes/Classes.md",
     "Book.md",
-    "Character Creation.md",
-    "Classes/Mage.md"
+    "Classes/Priest/_Priest.md",
+    "Classes/Fighter/Weapon Master.md",
+    "Classes/Battle Mage/Paladin.md",
+    "Classes/Battle Mage/Arcane Warrior.md",
+    "Classes/Battle Mage/_Battle Mage.md",
+    "Classes/Fighter/Captain.md",
+    "Classes/Fighter/_Fighter.md",
+    "Classes/Ranger/Tracker.md"
   ]
 }

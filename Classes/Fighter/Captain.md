@@ -4,7 +4,6 @@ Captains usually don't use magic but their superior battle tactics can shape the
 ## Morning Rituals
 1. __Plan for the Day:__ You lay out the plan for today for everone and remind them of the important tasks ahead. You and each of your allies resting with you may reroll a d20 check once until the beginning of your next rest.
 2. __Motivating Speech:__ Your allies gain +1d6 maximum resolve until the beginning of your next rest.
-3. __Tend to Equipment:__ You gain +1 on attack rolls until the beginning of your next rest.
 
 ## Level 1
 __Battle Cry (Once/Fight):__ You learn one of the following battle cries. You learn an additional battle cry each time you level up. You may only use one of your known battle cries per fight. All battle cries affect allies within 30ft. of you.

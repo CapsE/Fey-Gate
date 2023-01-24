@@ -6,13 +6,6 @@
 # Character Creation
 ![[Character Creation]]
 ## Classes
-### Fighter
-![[Classes/Fighter]]
-### Rouge
-![[Rouge]]
-### Mage
-![[Mage]]
-### Priest
-![[Priest]]
+![[Classes]]
 # Spells
 ![[Library]]

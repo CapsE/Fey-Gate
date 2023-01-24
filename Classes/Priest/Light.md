@@ -1,8 +1,7 @@
-As a priest you gain your powers from a deity. Depending on the domain of your powers you gain access to vastly different spells. Outside of combat you're exceptionally good at reading people.
+Your diety is a beacon of light and goodness and your powers reflect that. You protect and heal your allies but you're also capable of destroying evil wherever you may find it.
 
 ## Morning Rituals
 1. __Prayer of Safety:__ You pray for the safety of you and your group. The first time you or an ally would be reduced to below zero HP they miracously avoid that damage. This effect lasts until the start of your next rest.
-2. __Prayer of Guidance:__ During the day you may look around and watch out for little signs your on the right track. You get one of these signs before you start your next rest. (Ask the DM a yes or no question concerning your current objective)
 
 ## Level 1
 __Spell Casting:__ Your diety grants you the ability to cast spells. Wisdom is your spell casting attribute. Choose one type of spell (elemental, nature or arcane) that fit your diety. You learn two cantrips and two first level spells from the choosen and the divine type.

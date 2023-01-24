@@ -1,5 +1,10 @@
 You fight dirty and sneaky, avoiding your enemies defences while staying out of sight.
 
+## Subclasses
+* [[Assasin]]
+* [[Silvertounge]]
+* [[Thief]]
+
 ### Scaling
 * Crit-Chance increases slightly
 * Amount of ignored resolve increases slightly
